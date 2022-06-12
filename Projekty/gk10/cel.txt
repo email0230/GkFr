@@ -1,0 +1,4 @@
+Celem jest konstruowanie modelu figury szachowej zgodnie z wariantem zadania (patrz rysunek) używając three.js
+w oparciu na omówione na zajęcie metody konstruowania obiektów
+
+TWÓJ WARIANT : 7 - 4 = 3, jeden w dół bo "kuń za trudny"
